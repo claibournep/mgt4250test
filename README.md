@@ -48,12 +48,9 @@ Explanation: This graph allows us to see not only which regions, but which speci
 
 This line graph shows a comparison between average air quality compared to average water pollution in the United States. The blue line represents water pollution while the orange line represents air quality. This graph shows that water pollution and air quality follow a similar pattern to each other - with some discrepancies - which could indicate that a positive correlation exists between the two.
 
-Explanation:
-As shown in visualization #3, the likeness of the air quality and water pollution line patterns could suggest that both water pollution and air quality should be equally weighed when considering factors that could negatively impact one or both. 
 
 
 
 
 ## Discussion and summary
-This is my discussion
-
+As shown in visualization #3, the likeness of the air quality and water pollution line patterns could suggest that both water pollution and air quality should be equally weighed when considering factors that could negatively impact one or both. Also noted in visulations 1 and 2 we can see that air quality and water pollution do have a correlation with each othter, however, they are not always positively correlated with each other. 
