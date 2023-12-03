@@ -30,8 +30,10 @@ For our data we will be using the following columns:
 - WaterPollution
 
 Link to the code:
-[LINK](http://localhost:8846/lab/tree/Desktop/Data%20Wrangling/Data%20Visualization/Project.ipynb)
-[LINK](
+[LINK]([Uploading Project.ipynb…]()
+
+[LINK]([Uploading project.twb…]()
+
 
 ## Interpreting Visualizations
 Here are visualizations
