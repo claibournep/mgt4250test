@@ -37,6 +37,7 @@ Explanation: This graph allows us to see not only which regions, but which speci
 
 ![image(<img width="1250" alt="Screenshot 2023-11-13 at 3 49 25 PM" src="https://github.com/claibournep/mgt4250test/assets/152213980/fa66caab-f821-47f4-b0a6-4887184cf614">)
 
+
 This world map shows the grade of air pollution on a country-by-country basis. A grade of 0 means the air is of poor quality, while a grade of 100 means the air is of high quality. 
 
 Explanation: This graph allows us to see not only which regions, but which specific countries need to limit their carbon footprint in order for its citizens to have fresher air.
