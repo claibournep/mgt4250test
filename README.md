@@ -33,9 +33,11 @@ Link to the code:
 
 [LINK]([Project.pdf](https://github.com/claibournep/mgt4250test/files/13540276/Project.pdf)
 
+Link to our Tableau visualizations:
+
 [LINK](https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[LINK]([https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link])
+
 
 
 ## Interpreting Visualizations
@@ -71,4 +73,3 @@ Explanation:
 ## Discussion and summary
 As shown in visualization #3, the likeness of the air quality and water pollution line patterns could suggest that both water pollution and air quality should be equally weighed when considering factors that could negatively impact one or both. Also noted in visulations 1 and 2 we can see that air quality and water pollution do have a correlation with each othter, however, they are not always positively correlated with each other. 
 
-[LINK](https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
