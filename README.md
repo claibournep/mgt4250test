@@ -33,7 +33,7 @@ Link to the code:
 
 [LINK]([Project.pdf](https://github.com/claibournep/mgt4250test/files/13540276/Project.pdf)
 
-
+[LINK](https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [LINK]([https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link])
 
