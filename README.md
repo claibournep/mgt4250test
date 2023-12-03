@@ -59,6 +59,7 @@ As shown in visualization #3, the likeness of the air quality and water pollutio
 
 
 <img width="652" alt="Screenshot 2023-12-03 at 3 59 27 PM" src="https://github.com/claibournep/mgt4250test/assets/152814798/759ade28-e76b-47ce-a3ef-7ea49a24ea1c">
+[LINK] [cities_air_quality_water_pollution.18-10-2021 (1).xlsx](https://github.com/claibournep/mgt4250test/files/13540239/cities_air_quality_water_pollution.18-10-2021.1.xlsx)
 
 Explanation:
 
