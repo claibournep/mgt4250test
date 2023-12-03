@@ -35,7 +35,7 @@ Link to the code:
 
 
 
-[LINK]([https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[LINK]([https://public.tableau.com/views/CourseProject_17016387861420/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link])
 
 
 ## Interpreting Visualizations
