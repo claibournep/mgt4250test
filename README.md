@@ -30,9 +30,7 @@ For our data we will be using the following columns:
 - WaterPollution
 
 Link to the code:
-[LINK]([Project.pdf](https://github.com/claibournep/mgt4250test/files/13540267/Project.pdf)
-
-
+[LINK]([Project.pdf](https://github.com/claibournep/mgt4250test/files/13540276/Project.pdf)
 
 
 
