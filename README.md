@@ -29,6 +29,10 @@ For our data we will be using the following columns:
 - AirQuality
 - WaterPollution
 
+Link to the code:
+[LINK](http://localhost:8846/lab/tree/Desktop/Data%20Wrangling/Data%20Visualization/Project.ipynb)
+[LINK](
+
 ## Interpreting Visualizations
 Here are visualizations
 ![image(<img width="1250" alt="Screenshot 2023-11-13 at 3 50 00 PM" src="https://github.com/claibournep/mgt4250test/assets/152213980/3d844a9a-c585-4e48-bfee-44199ec471fc">)
