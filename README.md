@@ -43,7 +43,7 @@ This world map shows the grade of air pollution on a country-by-country basis. A
 Explanation: This graph allows us to see not only which regions, but which specific countries need to limit their carbon footprint in order for its citizens to have fresher air.
 
 
-<img width="1792" alt="Screenshot 2023-12-03 at 3 44 52 PM" src="https://github.com/claibournep/mgt4250test/assets/152814798/07300e89-80bc-4b16-a6eb-3665b3baca75">
+<img width="535" alt="Screenshot 2023-12-03 at 3 48 15 PM" src="https://github.com/claibournep/mgt4250test/assets/152814798/d2a7e12d-5c68-4b3f-90bb-7754de1f67ae">
 
 
 This line graph shows a comparison between average air quality compared to average water pollution in the United States. The blue line represents water pollution while the orange line represents air quality. This graph shows that water pollution and air quality follow a similar pattern to each other - with some discrepancies - which could indicate that a positive correlation exists between the two.
