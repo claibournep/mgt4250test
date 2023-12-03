@@ -15,9 +15,6 @@ We are interested in investigating these questions because it could give us insi
 3. Air pollution can also have an affect on respiratory related diseases [LINK](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4740163/)
 
 
-![image](<img width="1250" alt="Screenshot 2023-11-13 at 3 49 25 PM" src="https://github.com/claibournep/mgt4250test/assets/152213980/5497ba1b-a0b6-498a-af5b-c275e8d9e51f">)
-This world map shows the grade of water pollution on a country-by-country basis. A grade of 0 means the water is of amazing quality, while a grade of 100 means the water is very polluted. 
-
 Explanation: This graph allows us to see not only which regions, but which specific countries need to be prioritized when improving worldwide water quality.
 
 
