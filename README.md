@@ -68,10 +68,10 @@ As shown in visualization #3, the likeness of the air quality and water pollutio
 <img width="652" alt="Screenshot 2023-12-03 at 3 59 27 PM" src="https://github.com/claibournep/mgt4250test/assets/152814798/759ade28-e76b-47ce-a3ef-7ea49a24ea1c">
 [LINK] [cities_air_quality_water_pollution.18-10-2021 (1).xlsx](https://github.com/claibournep/mgt4250test/files/13540239/cities_air_quality_water_pollution.18-10-2021.1.xlsx)
 
-The line chart compares the air quality and water pollution levels across multiple countries. The orange line indicates the water pollution levels, and the blue line represents the air quality levels.
+This line chart compares the air quality and water pollution levels across multiple countries. The orange line indicates the water pollution levels, and the blue line represents the air quality levels.
 
 Explanation: 
-The bar chart showcases the comparative air quality and water pollution levels across various countries, displaying contrasting trends with peaks inversely proportional to each other. While the air quality tends to peak in certain nations, indicating higher pollution levels, their corresponding water pollution levels notably diminish, suggesting an intriguing inverse relationship. However, amidst these opposing trends, some countries exhibit correlating points where both air quality and water pollution levels align, hinting at shared environmental management strategies or geographical influences.
+The chart showcases the comparative air quality and water pollution levels across various countries, displaying contrasting trends with peaks inversely proportional to each other. While the air quality tends to peak in certain nations, indicating higher pollution levels, their corresponding water pollution levels notably diminish, suggesting an intriguing inverse relationship. However, amidst these opposing trends, some countries exhibit correlating points where both air quality and water pollution levels align, hinting at shared environmental management strategies or geographical influences.
 
 ## Discussion and summary
 As shown in visualization #3, the likeness of the air quality and water pollution line patterns could suggest that both water pollution and air quality should be equally weighed when considering factors that could negatively impact one or both. Also noted in visulations 1 and 2 we can see that air quality and water pollution do have a correlation with each othter, however, they are not always positively correlated with each other. 
