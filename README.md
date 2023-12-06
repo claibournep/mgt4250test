@@ -2,7 +2,7 @@
 Author: Claibourne Porter, cporter9@elon.edu, Nicole Czaja, nczaja@elon.edu, Michael Buccellato, mbuccellato@elon.edu
 ## Project Description
 We are interested in investigating these questions because they could give us insight into how human infrastructure and population could be related to increased water pollution and air quality. While correlation does not mean causation, the impacts on the environment could very well be related to human interaction. This is important because air quality and water pollution not only affect our ecosystems but also our quality of life with every breath we take. We will primarily be using a dataset from 2021 derived from Kaggle titled “World’s Air Quality and Water Pollution Dataset.” According to the World Health Organization, Ambient (outdoor) air pollution has caused an estimated 4.2 million premature deaths worldwide in 2019. 2.2 billion people remain without access to safe drinking water, and polluted water causes an estimated 1 million deaths each year, with 395,000 of those deaths coming from children under 5 years of age. With our visualizations, we hope to display which parts of the world need cleaner water and safer quality of air. 
-Here is the link to our data set:
+Here is the link to our data set: **(NOTE: This file has to be downloaded if you want to use the .twb file)**
 [LINK](https://www.kaggle.com/datasets/victorahaji/worlds-air-quality-and-water-pollution-dataset)
 
 
