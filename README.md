@@ -5,7 +5,7 @@ We are interested in investigating these questions because they could give us in
 Here is the link to our data set: 
 [LINK](https://www.kaggle.com/datasets/victorahaji/worlds-air-quality-and-water-pollution-dataset)
 
-**NOTE: This file has to be downloaded if you want to use the .twb file on its own**
+**NOTE: The data set has to be downloaded if you want to use the .twb file on its own**
 
 ### Questions of interest
 - Are there any correlations or associations between air quality and water pollution levels in specific regions?
