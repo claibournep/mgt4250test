@@ -85,7 +85,7 @@ We wanted to see what ChatGPT would have as answers to our questions, so we deci
 -Which regions or countries have the highest and lowest levels of air pollution, and are they regionally correlated? 
 -Which regions or countries have the highest and lowest levels of water pollution, and are they regionally correlated?
 
-These were the answers were returned:
+These were the answers that GPT 4 had for the questions:
 
 -There can be correlations between air quality and water pollution levels in specific regions. For instance, industrial regions often have both poor air and water quality due to emissions from factories. Pollutants in the air can also be deposited in bodies of water through precipitation, thereby affecting water quality. However, the correlation is not always direct or straightforward, as there are many factors that can influence both air and water quality, including geographical features, weather patterns, population density, and local environmental regulations.
 
