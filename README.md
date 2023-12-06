@@ -79,11 +79,13 @@ As shown in visualization #3, the likeness of the air quality and water pollutio
 In articles written by the World Health Organization (WHO), they also believe that there is a regional correlation between air pollution and poor water quality. Regarding air quality, low- and middle-income nations have it the worst; specifically countries in Southeastern Asia and Western Pacific. However, the WHO also says that 99% of the world's population is breathing in air that does not meet the WHO's guidelines. In the realm of bad water, 2.2 billion people do not have access to consistently safe and clean water, and the majority of those people reside in Africa and Asia.
 
 We wanted to see what ChatGPT would have as answers to our questions, so we decided to put them into GPT 4. We asked the generative AI these questions:
+
 -Are there any correlations or associations between air quality and water pollution levels in specific regions? 
 -Which regions or countries have the highest and lowest levels of air pollution, and are they regionally correlated? 
 -Which regions or countries have the highest and lowest levels of water pollution, and are they regionally correlated?
 
 These were the answers were returned:
+
 -There can be correlations between air quality and water pollution levels in specific regions. For instance, industrial regions often have both poor air and water quality due to emissions from factories. Pollutants in the air can also be deposited in bodies of water through precipitation, thereby affecting water quality. However, the correlation is not always direct or straightforward, as there are many factors that can influence both air and water quality, including geographical features, weather patterns, population density, and local environmental regulations.
 
 -According to the World Health Organization, countries with the highest levels of air pollution include India, Nepal, Niger, Qatar, and Bangladesh. On the other hand, countries with the lowest levels of air pollution include Australia, Brunei, New Zealand, Finland, and Estonia.
